@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##i'm study python,html5,css,js,react,java,
+i'm study ###python, ###java, ###javascript, ###React, ###C;
 
 <!--
 **kimsinwoo/kimsinwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
