@@ -2,6 +2,9 @@
 
 i'm study python,java,javascript,React, C;😀
 
+instagram : kim_su37
+email : khcstar@gmail.com
+
 <!--
 **kimsinwoo/kimsinwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
