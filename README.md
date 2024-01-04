@@ -5,7 +5,7 @@ i'm study python,java,javascript,React, C;😀
 instagram : kim_su37
 email : khcstar@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsinwoo&show_icons=true&theme=radical)
 <!--
 **kimsinwoo/kimsinwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
