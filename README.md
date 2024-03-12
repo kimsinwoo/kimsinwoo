@@ -2,7 +2,7 @@
 
 i'm study python,java,javascript,React, C, html😀
 
-funny coding~
+funny coding~ 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsinwoo&show_icons=true&theme=radical)
 
