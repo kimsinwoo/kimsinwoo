@@ -2,7 +2,7 @@
 
 i'm study python,java,javascript,React, C, html😀
 
-instagram : kim_su37
+instagram : kim_su37 \n
 email : khcstar@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsinwoo&show_icons=true&theme=radical)
