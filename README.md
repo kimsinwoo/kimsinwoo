@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-i'm study python,java,javascript,React, C;😀
+i'm study python,java,javascript,React, C, html😀
 
 instagram : kim_su37
 email : khcstar@gmail.com
