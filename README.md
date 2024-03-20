@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/react-008DDA?style=for-the-badge&logo=react&logoColor=black" />
   
 </div>
-
+## my stat
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsinwoo&show_icons=true&theme=radical)
 
 <!--
