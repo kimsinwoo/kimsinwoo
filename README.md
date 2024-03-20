@@ -1,5 +1,5 @@
 <div>
-(https://capsule-render.vercel.app/api?type=wave&height=300&text=sinwoo%&reversal=false&fontAlign=50&animation=twinkling)
+https://capsule-render.vercel.app/api?type=wave&height=300&text=sinwoo%&reversal=false&fontAlign=50&animation=twinkling
 </div>
 <h1 align="center">Hello i'm sinwoo!</h1>
 
