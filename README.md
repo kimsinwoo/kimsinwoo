@@ -15,7 +15,9 @@
   
 </div>
 ## my stat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsinwoo&show_icons=true&theme=radical)
+<div>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsinwoo&show_icons=true&theme=radical)
+</div>
 
 <!--
 **kimsinwoo/kimsinwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
