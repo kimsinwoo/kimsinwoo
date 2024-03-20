@@ -1,4 +1,4 @@
-<div algin="center">![header](https://capsule-render.vercel.app/api?type=wave&height=300&text=sinwoo%&reversal=false&fontAlign=50&animation=twinkling)<div/>
+![header algin="center"](https://capsule-render.vercel.app/api?type=wave&height=300&text=sinwoo%&reversal=false&fontAlign=50&animation=twinkling)
 
 <h1 align="center">Hello i'm sinwoo!</h1>
 
