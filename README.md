@@ -1,6 +1,5 @@
-<div>
-https://capsule-render.vercel.app/api?type=wave&height=300&text=sinwoo%&reversal=false&fontAlign=50&animation=twinkling
-</div>
+![header](https://capsule-render.vercel.app/api?type=wave&height=300&text=sinwoo%&reversal=false&fontAlign=50&animation=twinkling)
+
 <h1 align="center">Hello i'm sinwoo!</h1>
 
 <div align="center">
@@ -15,6 +14,7 @@ https://capsule-render.vercel.app/api?type=wave&height=300&text=sinwoo%&reversal
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/react-008DDA?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Flutter-008DDA?style=for-the-badge&logo=flutter&logoColor=black" />
   
 </div>
     
