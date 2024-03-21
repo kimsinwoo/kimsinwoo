@@ -2,8 +2,8 @@
 
 <h1 align="center">Hello i'm sinwoo!</h1>
 
-<div align="center">
-    ## 📚 Learning Now
+<div align="center" font-weight="bold">
+     📚 Learning Now
 </div>
 
 <div display="flex" align="center">
