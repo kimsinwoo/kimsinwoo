@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/react-008DDA?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/react-008DDA?style=for-the-badge&logo=node&logoColor=black" />
+  <img src="https://img.shields.io/badge/node-008DDA?style=for-the-badge&logo=node&logoColor=black" />
 </div>
     
 <br>
