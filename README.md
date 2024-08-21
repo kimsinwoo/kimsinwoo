@@ -7,13 +7,10 @@
 </div>
 
 <div display="flex" align="center">
-    <img src="https://img.shields.io/badge/C-red?style=for-the-badge&logo=C&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=Java&logoColor=red" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/react-008DDA?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/node-008DDA?style=for-the-badge&logo=node&logoColor=black" />
+     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+     <img src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black" />
+     <img src="https://img.shields.io/badge/react-008DDA?style=for-the-badge&logo=react&logoColor=black" />
 </div>
     
 <br>
@@ -24,7 +21,16 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-     <img src="https://img.shields.io/eclipse-marketplace/:interval/:name" />&nbsp
+     <img src="https://img.shields.io/badge/eclipse-ff7f50?style=for-the-badge&logo=eclipse&logoColor=black" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">📚 Study 📚</h3>
+<div align="center">
+     <img src="https://img.shields.io/badge/spring-3cb371?style=for-the-badge&logo=spring&logoColor=black" />
+     <img src="https://img.shields.io/badge/node-008DDA?style=for-the-badge&logo=node&logoColor=black" />
+     <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=Java&logoColor=red" />
 </div>
 
 <br>
