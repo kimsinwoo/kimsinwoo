@@ -30,7 +30,7 @@
 <div align="center">
      <img src="https://img.shields.io/badge/spring-3cb371?style=for-the-badge&logo=spring&logoColor=black" />
      <img src="https://img.shields.io/badge/node-008DDA?style=for-the-badge&logo=node&logoColor=black" />
-     <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=Java&logoColor=red" />
+     <img src="https://img.shields.io/badge/Java-a9a9a9?style=for-the-badge&logo=Java&logoColor=ff0000" />
 </div>
 
 <br>
