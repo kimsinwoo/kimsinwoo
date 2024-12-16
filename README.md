@@ -40,11 +40,11 @@
   <a href="https://velog.io/@sinwoo_dev">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mail: dev.sinwoo@gmail.com">
+  <a href="mail: dev.sinwoo@gma">
     <img
       src="https://img.shields.io/badge/dev.sinwoo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-     <a href="mail: dev.sinwoo@gmail.com">
+     <a href="https://longhaired-shroud-8ce.notion.site/a40a3d7aeca4496184278783ab5ee0d0?pvs=73">
     <img
       src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=black"/>&nbsp
   </a>
