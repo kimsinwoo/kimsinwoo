@@ -46,7 +46,7 @@
   </a>
      <a href="mail: dev.sinwoo@gmail.com">
     <img
-      src="https://img.shields.io/badge/notion-D14836?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=black"/>&nbsp
   </a>
 </div>
 
